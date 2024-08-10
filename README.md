@@ -17,8 +17,11 @@ users will get different notifications based on their real time location and the
 ![Screenshot 2024-08-10 150411](https://github.com/user-attachments/assets/8667f99e-d22f-4b94-816a-3e239a58a3a3)
 
 https://github.com/user-attachments/assets/ae1011f8-b4d3-4294-b67e-fb810bc23915
+![image](https://github.com/user-attachments/assets/4cd822ea-505f-485b-9660-0ad0ad47ba4c)
 
 
--> right now facing isuues in api calls
+
+-> right now facing isuues in api calls in the android app
+-> proper dataset and everything is ready(using raw code)
 
 
