@@ -15,3 +15,7 @@ users will get different notifications based on their real time location and the
 ![Screenshot 2024-08-10 145315](https://github.com/user-attachments/assets/e683b2ff-0799-4ec7-bd31-b9742288b38b)
 
 ![Screenshot 2024-08-10 150411](https://github.com/user-attachments/assets/8667f99e-d22f-4b94-816a-3e239a58a3a3)
+
+https://github.com/user-attachments/assets/ae1011f8-b4d3-4294-b67e-fb810bc23915
+
+
