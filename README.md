@@ -19,3 +19,6 @@ users will get different notifications based on their real time location and the
 https://github.com/user-attachments/assets/ae1011f8-b4d3-4294-b67e-fb810bc23915
 
 
+-> right now facing isuues in api calls
+
+
