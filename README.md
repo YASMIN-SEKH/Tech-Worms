@@ -12,7 +12,7 @@ users will get different notifications based on their real time location and the
 -> pharmacist can use this data to get ready for future to make medcines accordingly hence profit will increase.
 
 
-![Screenshot 2024-08-10 145315](https://github.com/user-attachments/assets/e683b2ff-0799-4ec7-bd31-b9742288b38b)
+![Screenshot 2024-08-11 084251](https://github.com/user-attachments/assets/1d02e9a2-8046-43f9-98cb-773b03d51ef0)
 
 ![Screenshot 2024-08-10 150411](https://github.com/user-attachments/assets/8667f99e-d22f-4b94-816a-3e239a58a3a3)
 
